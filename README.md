@@ -1,0 +1,2 @@
+# qweather_mcp_server_sse
+qweather_mcp_server_sse
